@@ -1,0 +1,27 @@
+{
+  "name": "PixeLion",
+  "description": "a terrible lion!",
+  "image": "",
+  "attributes": [
+    {
+      "trait_type": "BACKGROUND",
+      "value": "DarkGreen"
+    },
+    {
+      "trait_type": "HAT",
+      "value": "BabyDuck"
+    },
+    {
+      "trait_type": "MANE",
+      "value": "Silver"
+    },
+    {
+      "trait_type": "ACCESSORY",
+      "value": "StickCandy"
+    },
+    {
+      "trait_type": "CLOTHES",
+      "value": "Prisoner'sUniform"
+    }
+  ]
+}

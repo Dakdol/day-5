@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background-color: lightpink;
+}
+@media (min-width: 768px) {
+  body {
+    background-color: tomato;
+  }
+}
+@media (min-width: 1024px) {
+  body {
+    background-color: slateblue;
+  }
+}
+
+/*# sourceMappingURL=style.css.map */
